@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "examples/mathFunctions.ts", "examples/mathFunctions.test.ts"  ]
 }
